@@ -1,0 +1,37 @@
+.Tarak{
+    border:solid groove;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+    text-align: center;
+    width: 400px;
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: 550px;
+    margin-top:470px;
+}
+input{
+    border-radius: 10px;
+    color:blueviolet;
+    border-color: aquamarine;
+}
+.Tarak2{
+    border:solid rgb(138, 46, 97);
+    outline: red;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.Tarak3{
+    margin-top: 10px;
+}
+.Tarak4{
+    margin-top: 10px;
+}
+.rakesh{
+    background-image:url(../Tarak.html/hyderabad-india-highway-road-sign-260nw-260156159.webp);
+    height:700px;
+    margin-top: 2px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}

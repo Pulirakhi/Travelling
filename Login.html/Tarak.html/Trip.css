@@ -1,0 +1,58 @@
+.ntr{
+    text-align: center;
+    border:solid groove;
+    border-radius: 30px;
+    background-color: black;
+    color:white;
+    width:500px;
+    padding:10px;
+    margin-left:200px ;
+    margin: top 100px;
+}
+.ntr1{
+    text-decoration:underline;
+}
+ input{
+    border-radius: 10px;
+    border-color: aqua;
+
+}
+button{
+    margin-top: 5px;
+    border-radius:5px;
+    border-color:red;
+
+}
+.hover:hover{
+    background-color: deepskyblue;
+    transform: scale(1.1);
+}
+.ntr2{
+    background-image: url(../Tarak.html/trip.jpeg);
+    height:700px;
+    margin-top: 2px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ntr4{
+    margin-left: 1200px;
+    width:300px;
+}
+.ntr5{
+    background-color:silver;
+    width:250px;
+    height: 60px;
+    border-radius: 20px;
+}
+.hover1:hover{
+    background-color:lightcyan;
+    transform: scale(1.1);
+}
+.ntr6{
+    color:cyan;
+    margin-left: 300px;
+
+
+
+    
+}

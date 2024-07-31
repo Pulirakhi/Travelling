@@ -1,0 +1,51 @@
+.ntr1{
+background-color: black;
+color:white;
+border-radius:20px;
+padding:10px;
+border:red gold groove;
+text-align: center;
+width:500px;
+margin-top: 100px;
+margin-left: 900px;
+
+}
+
+.ntr{
+    text-align:center;
+   
+    width:1000px;
+    border: darkorange groove;
+    border-radius:20px;
+    padding:2px;
+    margin-left:180px;
+}
+
+.jrntr{
+    background-image:url(./th\ \(6\).jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:710px;
+}
+.hover:hover{
+    background-color: whitesmoke;
+    transform: scale(1.1);
+}
+
+.ntr5{
+    border:solid groove;
+    border-radius:20px;
+    border-color: aqua;
+    background-color: white;
+    color:black;
+
+
+}
+
+button{
+    border:solid groove;
+
+}
+.ntr4{
+    margin-top: 10px;
+}
